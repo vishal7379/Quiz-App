@@ -1,0 +1,61 @@
+.ques{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid green;
+    width: 280px;
+    margin: auto;
+    margin-top: 120px;
+    padding: 48px;
+    margin-bottom: 40px;
+    background-color: rgb(241, 191, 137);
+    border-radius: 8px;
+    
+}
+.ques-text{
+    white-space: normal;
+    max-width: 100%;
+    font-size: 18px;
+}
+.list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 14px;
+    list-style: none;
+}
+#butn{
+    cursor: pointer;
+    padding: 8px;
+    width: 180px;
+    background-color: rgb(237, 240, 55);
+    border-radius: 8px;
+    border: 2px solid blueviolet;
+}
+#butn:hover{
+    background-color: rgb(105, 235, 138);
+    
+}
+#butn:disabled{
+    cursor: not-allowed ;
+    background-color: rgb(211, 213, 182);
+    
+}
+
+#nxtqn{
+    margin-left: 80px;
+    margin-top: 20px;
+    padding: 4px;
+    background-color: rgb(207, 246, 53);
+    border-radius: 4px;
+}
+#rslt{
+    margin-left: 80px;
+    margin-top: 20px;
+    padding: 3px;
+    background-color: rgb(207, 246, 53);
+    border-radius: 4px;
+    
+}

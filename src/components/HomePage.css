@@ -1,0 +1,26 @@
+.home-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.start{
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 160px;
+}
+#startbtn{
+    cursor: pointer;
+    font-size: 16px;
+    padding: 8px;
+    background-color:yellow;
+    border-radius: 8px;
+    width: 120px;
+}
+#startbtn:hover{
+    background-color: lightblue;
+    
+}

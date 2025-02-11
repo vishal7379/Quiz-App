@@ -1,0 +1,20 @@
+.vrslt{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    background-color: bisque;
+    width: fit-content;
+    margin: auto;
+    margin-top: 180px;
+    padding: 25px;
+    border: 4px solid darkorange;
+    border-radius: 8px;
+}
+#restart{
+    background-color: lightgreen;
+    padding: 4px;
+    cursor: pointer;
+    border-radius: 4px;
+}

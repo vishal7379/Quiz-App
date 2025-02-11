@@ -1,0 +1,123 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Lisbon"],
+      "answer": "Paris",
+      "category": "Geography"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Venus", "Mars", "Jupiter"],
+      "answer": "Mars",
+      "category": "Science"
+    },
+    {
+      "question": "Who wrote 'Hamlet'?",
+      "options": ["Shakespeare", "Hemingway", "Tolkien", "Austen"],
+      "answer": "Shakespeare",
+      "category": "Literature"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "answer": "Pacific Ocean",
+      "category": "Geography"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Ag", "Au", "Pb", "Fe"],
+      "answer": "Au",
+      "category": "Science"
+    },
+    {
+      "question": "Who invented the telephone?",
+      "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Albert Einstein"],
+      "answer": "Alexander Graham Bell",
+      "category": "Technology"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi Apparatus"],
+      "answer": "Mitochondria",
+      "category": "Biology"
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7",
+      "category": "Geography"
+    },
+    {
+      "question": "Which programming language is known as the 'mother of all languages'?",
+      "options": ["C", "Fortran", "Python", "Assembly"],
+      "answer": "Fortran",
+      "category": "Technology"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+      "answer": "Leonardo da Vinci",
+      "category": "Art"
+    },
+    {
+      "question": "What is the speed of light?",
+      "options": ["299,792 km/s", "150,000 km/s", "3,000 km/s", "1,000,000 km/s"],
+      "answer": "299,792 km/s",
+      "category": "Physics"
+    },
+    {
+      "question": "Which country won the FIFA World Cup in 2018?",
+      "options": ["Germany", "Argentina", "France", "Brazil"],
+      "answer": "France",
+      "category": "Sports"
+    },
+    {
+      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": "Nitrogen",
+      "category": "Science"
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "options": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+      "answer": "Mount Everest",
+      "category": "Geography"
+    },
+    {
+      "question": "Who discovered gravity?",
+      "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Niels Bohr"],
+      "answer": "Isaac Newton",
+      "category": "Science"
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "options": ["Yuan", "Won", "Ringgit", "Yen"],
+      "answer": "Yen",
+      "category": "Economics"
+    },
+    {
+      "question": "Which organ in the human body produces insulin?",
+      "options": ["Liver", "Pancreas", "Heart", "Kidney"],
+      "answer": "Pancreas",
+      "category": "Biology"
+    },
+    {
+      "question": "Who was the first person to step on the moon?",
+      "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "Michael Collins"],
+      "answer": "Neil Armstrong",
+      "category": "Space"
+    },
+    {
+      "question": "Which is the longest river in the world?",
+      "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+      "answer": "Nile River",
+      "category": "Geography"
+    },
+    {
+      "question": "Which element is the most abundant in the Earth's crust?",
+      "options": ["Oxygen", "Silicon", "Iron", "Aluminum"],
+      "answer": "Oxygen",
+      "category": "Science"
+    }
+  ]
+  
