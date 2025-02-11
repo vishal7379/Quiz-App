@@ -18,7 +18,7 @@ const Quiz = () => {
   const navigate=useNavigate();
 
   useEffect(()=>{
-    fetch("public/quiz.json")
+    fetch("/quiz.json")
     .then((response)=>response.json())
     .then((data)=>{
       const arr=shuffleArray(data).slice(0,5);
